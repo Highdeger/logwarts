@@ -1,2 +1,2 @@
 # logwarts
-Neat log solution for Golang
+Neat Log Solution for Golang
